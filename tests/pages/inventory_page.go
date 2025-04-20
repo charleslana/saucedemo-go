@@ -11,7 +11,7 @@ import (
 const (
 	InventoryURL    = "https://www.saucedemo.com/inventory.html"
 	InventoryTitle  = "Swag Labs"
-	InventoryButton = `.inventory_item2`
+	InventoryButton = `.inventory_item`
 )
 
 type InventoryPage struct {
